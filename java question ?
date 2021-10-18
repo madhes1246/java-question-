@@ -1,0 +1,17 @@
+1. java share value int to string is possible or not?
+Yes
+ex:
+{
+int v=8;
+String n=String.valueOf(v);
+}
+
+2. java share value string  to integer is possible or not? Yes   /
+Ex:
+String s="6";
+integer n= Integer.valueOf(s);;
+//(or)
+integer n=Integer.parseInt(s);
+3: int also salme thing happen
+int n=Integer.parseInt(n);
+
